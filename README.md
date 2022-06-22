@@ -1,5 +1,5 @@
 # odin-recipes
-- Code ordered and unordered lists
+- Code order and unordered lists
 - Use headings
 - Implement boilerplate code independently without google help.
 - Make use of different attributes
